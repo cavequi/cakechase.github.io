@@ -10,8 +10,8 @@
 }
 
 @font-face {
-    font-family: 'creamcake';
-    src: url("../Others/creamcake.ttf");
+    font-family: 'dreamflourish';
+    src: url("../Others/DreamFlourish.otf");
 }
 
 * {
@@ -153,7 +153,7 @@ nav {
 }
 
 .titulo {
-    font-family: 'creamcake';
+    font-family: 'dreamflourish';
     color: #EC008B;
     font-size: 8vw;
     text-align: center;
